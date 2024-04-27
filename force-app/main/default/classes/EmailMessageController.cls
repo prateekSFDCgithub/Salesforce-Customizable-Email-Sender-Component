@@ -1,4 +1,4 @@
-public class EmailMessageControllerOnComm {
+public class EmailMessageController {
     @AuraEnabled 
     public static void sendMailMethod(list<String> mMail , list<string>cc,list<string>bcc, String mSubject ,String mbody, String leadId,String folderId,String templateId,list<string>DocName ,list<string> customInputValueSplitted){
         string messageID = [select messageID__c from case__c where id=:leadID limit 1].messageID__c;

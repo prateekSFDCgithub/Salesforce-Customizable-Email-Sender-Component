@@ -17,7 +17,7 @@ The Salesforce Email Sender Component is a versatile tool designed to simplify e
 # Get Started:
 Experience the efficiency and convenience of the Salesforce Email Sender Component today. Improve your email communication workflows and enhance productivity within your Salesforce environment.
 
-**Facing any problem in implementing? Feel free to contact:**
-**Salesforce Developer and Expert**
-**Prateek Joshi **
+**Facing any problem in implementing? Feel free to contact:**/n
+**Salesforce Developer and Expert**/n
+**Prateek Joshi**/n
 **(trzprateeksfdc@gmail.com)**

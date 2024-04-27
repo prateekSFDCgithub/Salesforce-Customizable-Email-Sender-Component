@@ -20,7 +20,7 @@ public class EmailMessageControllerOnCommTest {
     From__c = toAddresses[0],      
     Subject__c = subject,           
     Description__c = 'test Body@@'   ,
-  to__c = 'sourabh.kasera@makedian.com'
+  to__c = 'sW@S.com'
     
 );
         insert cc;

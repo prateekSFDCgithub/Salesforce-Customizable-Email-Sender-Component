@@ -1,5 +1,5 @@
 @isTest
-public class HIC_EmailMessageControllerOnCommTest {
+public class EmailMessageControllerOnCommTest {
     
  @isTest
     static void testSendMailMethod_PositiveScenario() {
@@ -33,8 +33,8 @@ public class HIC_EmailMessageControllerOnCommTest {
 
         // Call the method
         Test.startTest();
-        HIC_EmailMessageControllerOnComm.sendMailMethod(toAddresses, ccAddresses, bccAddresses, subject, 'test Body@@@@', cc.id, folderId, templateId, new list<string>{attachment.title},new list<string>{'p@p.comm','p@ww.com'});
-       HIC_EmailMessageControllerOnComm.getCurrentSubject(cc.id); 
+        EmailMessageControllerOnComm.sendMailMethod(toAddresses, ccAddresses, bccAddresses, subject, 'test Body@@@@', cc.id, folderId, templateId, new list<string>{attachment.title},new list<string>{'p@p.comm','p@ww.com'});
+       EmailMessageControllerOnComm.getCurrentSubject(cc.id); 
         Test.stopTest();
        
 
@@ -66,9 +66,9 @@ public class HIC_EmailMessageControllerOnCommTest {
     
     insert cc;
         // Call the method
-        HIC_EmailMessageControllerOnComm.getEmailTempaltes();
+        EmailMessageControllerOnComm.getEmailTempaltes();
                                case__c casObj =    HIC_EmailMessageControllerOnComm.getLeadRec(cc.id);
-   Map<String, String> USerCusMpa =  HIC_EmailMessageControllerOnComm.UserEmailListClass (cc.id);
+   Map<String, String> USerCusMpa =  EmailMessageControllerOnComm.UserEmailListClass (cc.id);
         // ... No assertions, primarily aiming for code coverage 
     }
 

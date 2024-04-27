@@ -1,4 +1,4 @@
-<aura:component controller="EmailMessageControllerOnComm"
+<aura:component controller="EmailMessageController"
                 implements="force:appHostable,flexipage:availableForRecordHome,force:hasRecordId"
                 access="global">
     <aura:attribute name="showSpinner" type="Boolean" default="false"/>

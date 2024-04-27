@@ -5,6 +5,7 @@ The Salesforce Email Sender Component is a versatile tool designed to simplify e
 
 # Key Features:
 **User-Friendly Interface:** The component provides an intuitive user interface, ensuring ease of navigation and utilization of its functionalities.
+
 **Picklist Selection:** Selecting email recipients is made effortless with the picklist feature. Choose from existing users' emails, custom object email fields, or search for specific emails directly within the picklist.
 **Custom Email Addresses:** Users have the flexibility to input custom email addresses in a comma-separated format, allowing for sending emails to recipients beyond those already present in your Salesforce database.
 **Integration with Email Templates:** Enhance your email communications by leveraging existing email templates within your Salesforce organization. The component seamlessly integrates with your org's email templates, enabling you to select and utilize them when composing messages.

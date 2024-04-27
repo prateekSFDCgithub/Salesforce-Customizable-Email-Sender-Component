@@ -30,8 +30,7 @@ Experience the efficiency and convenience of the Salesforce Email Sender Compone
 
 **Facing any problem in implementing? Feel free to contact:**
 
-**Salesforce Developer and Expert**
-
 **Prateek Joshi**
+(**Salesforce Developer and Expert**)
 
 **(trzprateeksfdc@gmail.com)**

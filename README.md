@@ -16,8 +16,10 @@ Experience the efficiency and convenience of the Salesforce Email Sender Compone
 
 Feel free to customize this description further to fit your specific repository and audience preferences.
 
-# Facing any problem in implementing
-**Contact**
-[Prateek Joshi]
-**Salesforce Expert/Developer**
+** Facing any problem in implementing feel fere to contact:
+
+**[Prateek Joshi]**
+**(Salesforce Expert/Developer)**
+**Email :** trzprateeksfdc@gmail.com
+
 >>>>>>> f795b87a2c76e7208f9b474c6e24c92a65fb5efb
